@@ -1,128 +1,78 @@
 ---
 layout: cv
-title: Eralp Karaduman's CV
+title: Berat Bozkurt's CV
 ---
 
-# Eralp Karaduman
-Generalist Software Developer
+# Berat Bozkurt
+Front-End Developer
 
-| __E-Mail__   | [eralp@eralpkaraduman.com](mailto:eralp@eralpkaraduman.com)              | 
-| __Website__  | [eralpkaraduman.com](https://eralpkaraduman.com)                         |
-| __LinkedIn__ | [linkedin.com/in/eralpkaraduman](https://linkedin.com/in/eralpkaraduman) |
-| __Twitter__  | [twitter.com/eralpkaraduman](https://twitter.com/eralpkaraduman)         |
+| __E-Mail__   | [me@beratbozkurt.net](mailto:me@beratbozkurt.net)              | 
+| __Website__  | [beratbozkurt.net](https://beratbozkurt.net)                         |
+| __LinkedIn__ | [linkedin.com/in/beratbozkurt](https://linkedin.com/in/beratbozkurt) |
+| __Twitter__  | [twitter.com/beratbozkurt0](https://twitter.com/beratbozkurt0)         |
+| __GitHub__  | [github.com/berat](https://github.com/berat)         |
 
 ## TLDR;
 
-- 12+ years in software dev
-- Now working as consultant making web & mobile apps.
-- Worked in games industry on internal tools and infrastructure for 2 years.
-- Mainly developed native iOS apps for about 6 years (swift, objc)
-- Also made Android apps and Backends on the side
-- Tried my own startup for a brief time
-- Recently became a full stack web developer for 2+ years (react, nodejs)
-- Before all I was a Flash developer when it used to be cool.
-- See below for code examples, open source personal projects.
+- I'm a front-end developer
+- I use React, Next.js, Redux, Node.js.
+- I have a startup called [davetiyem.co](https://davetiyem.co)
+- I've been writing react native and vue recently.
+- You can see below for code examples, open source personal projects.
 
 ## Currently
 
-Based in Helsinki, Finland. Working on mobile apps as a consultant.
-
-
-### Specialized in
-
-- Building digital products.
-- Native iOS development with Swift
-- Web SPA's with javascript / React.
-- Building server applications with node.js on major cloud platforms.
+Freelance Front-End Developer & Work on my own startup
 
 
 ## Education
 
-`2005-2009`
-__Kadir Has University, Computer Science & Statistics Ba.__
+`2017-2022`
+__Bilecik University, Computer Engineering.__
 
 
 ## Occupation
 
-`March 2019 - now`
-__Qvik__, Helsinki  
-_Senior Software Developer_
+`Jun 2017 - now`
+__Freelance Front-End Developer__, Global  
+_Front-End Developer_
+
+- I have been working freelance on my life in university. My skills: React, Next.js, Node.js, Vue.js, React-Native
+
+`Jan 2019 - now`
+__Davetiyem.Co__, Turkey  
+_Founder & Full Stack Developer_
+
+After March 29, 2020, I converted the whole system to javascript code (Node.js, React, Next.js).The project is where couples can create digital wedding invitation.
+- I used React, Next.js, Node.js, PostgreSQL
+- And I manage all the other things.
 
 
-`Jan 2017 - February 2019`
-__Seriously Digital Entertainment__, Helsinki  
-_Technology Programmer_
+`2015 - 2016`
+__Doruk Interaktif__, Ankara  
+_Front-End Developer_
 
-- Working on web technology based internal tools (react, redux, node.js, typescript, docker).
-- Native plugin development for Unity3D (iOS/Obj-C & Android/Java).
+- I worked in office about Ankara a short time. I worked on my projects during my work.
 
-
-`Sep 2015 - Jan 2017`
-__DealDash__, Helsinki  
-_iOS Developer_
-
-- Built iOS App Dropio (Swift): A retail app with real time multiplayer game mechanics.
-- Also worked on backend (PhP7 / Symfony).
-- Participated in product development. 
-
-
-`Sep 2014 - Oct 2016`
-__CupsOn.Me__, Dublin  
-_Co-Founder & iOS Developer_
-
-- Co-founded & Developed (iOS - Obj-C) a mobile first discovery &
-purchasing platform for 3rd wave coffee enthusiasts.
-
-
-`Apr 2015 - Aug 2015`
-__Hipo__, Istanbul  
-_iOS Developer_
-
-- Worked on a iOS (Obj-C) social network app for collectors named "Fielguide", 
-which included technically challenging user interfaces.
-([App Store Link](https://itunes.apple.com/us/app/fieldguide-for-everything/id879829383?mt=8))
-
-
-`November 2012 - Apr 2015` 
-__Adphorus / Publik__, Istanbul  
-_Mobile (iOS & Android) Software Developer_
-
-- Worked on Adphorus, SaaS platform for facebook ads management.
-- Built native iOS (Objc-C) & Android (Java) clients for Adphorus.
-- Worked on Cevap.Tv, video how-to website. 
-- Built video playback components with google video ads integration (flash, as3, IMA SDK)
-- Built iPad / iPhone app clients (Obj-C)
-- Designed streaming video infrastracture (based on Wowza & AWS)
-- Built a video transcoding system (FFMpeg, node.js, AWS) & streaming-transcoding backend (node.js)
-
-
-`Sep 2008 - Nov 2012` __MagiClick__, Istanbul  
-_Senior Flash Developer & Team Leader_
-
-- Built websites and  advergames (Flash), 
-- Rich media campaigns combining electronics & software.
-- Early AR applications with Flash's c++ runtime.
-- Worked as team leader of  of 6 (2012)
 
 ## Projects & Code Examples
 
-- `Flutter, Dart, iOS, Android` : [github.com/eralpkaraduman/event_dot_pizza](https://github.com/eralpkaraduman/event_dot_pizza)
+- `React, Next.js` : 
+  - Source: [github.com/berat/homepage](https://github.com/berat/homepage)
+  - Web: [beratbozkurt.net](https://beratbozkurt.net)
 
-- `Full Stack, Docker, NodeJS, React, JavaScript` : [github.com/eralpkaraduman/weatherapp](https://github.com/eralpkaraduman/weatherapp)
+- `React Native` : [github.com/berat/covid-app-react-native](https://github.com/berat/covid-app-react-native)
 
-- `React, JavaScript` : [github.com/eralpkaraduman/savings-projects-frontend](http://github.com/eralpkaraduman/savings-projects-frontend)
+- `React, Redux` : 
+  - Source: [github.com/berat/react-practical](https://github.com/berat/react-practical)
+  - Web: [practical-react.herokuapp.com](https://practical-react.herokuapp.com/)
+  
+- `Node.js, MongoDB` : [github.com/berat/react-practical-server](https://github.com/berat/react-practical-server)
 
-- `TypeScript, NodeJS` : [github.com/eralpkaraduman/unity-frontend-developer-assignment](https://github.com/eralpkaraduman/unity-frontend-developer-assignment)
+- `React, NPM` : 
+  - Source: [github.com/berat/pagination-react-hooks](https://github.com/berat/pagination-react-hooks)
+  - NPM: [npmjs.com/package/pagination-react-hooks](https://www.npmjs.com/package/pagination-react-hooks)
+  
+- `Flask(Python)` : [github.com/berat/flask-login-register-form](https://github.com/berat/flask-login-register-form)
 
-- `Python` : [github.com/eralpkaraduman/reddit-migrator](https://github.com/eralpkaraduman/reddit-migrator)
-
-- `React Native, Objective C` : [github.com/speechgrinder/react-native-sfspeechrecognizer](https://github.com/speechgrinder/react-native-sfspeechrecognizer)
-
-- `JavaScript, iOS, Cordova`
-  - Source: [github.com/eralpkaraduman/text-wallpaper-generator](https://github.com/eralpkaraduman/text-wallpaper-generator)
-  - Web: [https://textwallpaper.online](textwallpaper.online)
-  - App Store: [itunes.apple.com/fi/app/text-wallpaper/id1438319854?mt=8](https://itunes.apple.com/fi/app/text-wallpaper/id1438319854?mt=8)
-
-- `Jekyll, gh-pages, Ruby, Travis CI` : [https://github.com/eralpkaraduman/cv](https://github.com/eralpkaraduman/cv)
-
-- `Unity3D, C#, Objective C` : [github.com/eralpkaraduman/LennyTTSUnity](https://github.com/eralpkaraduman/LennyTTSUnity)
+- `Markdown` : [github.com/berat/notebook](https://github.com/berat/notebook)
