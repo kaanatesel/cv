@@ -43,7 +43,7 @@ _Front-End Developer_
 __Davetiyem.Co__, Turkey  
 _Founder & Full Stack Developer_
 
-After March 29, 2020, I converted the whole system to javascript code (Node.js, React, Next.js).The project is where couples can create digital wedding invitation.
+The project is where couples can create digital wedding invitation.
 - I used React, Next.js, Node.js, PostgreSQL
 - And I manage all the other things.
 
