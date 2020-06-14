@@ -31,7 +31,7 @@ Freelance Front-End Developer & Work on my own startup
 __Bilecik University, Computer Engineering.__
 
 
-## Occupation
+## Experience
 
 `Jun 2017 - now`
 __Freelance Front-End Developer__, Global  
