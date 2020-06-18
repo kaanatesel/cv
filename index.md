@@ -66,6 +66,10 @@ _Front-End Developer_
 
 - `React Native` : [github.com/berat/covid-app-react-native](https://github.com/berat/covid-app-react-native)
 
+- `Vue, Vuex` : 
+  - Source: [github.com/berat/vuejs-practical](https://github.com/berat/vuejs-practical)
+  - Web: [vuejs-practical.surge.sh](https://vuejs-practical.surge.sh/)
+  
 - `React, Redux` : 
   - Source: [github.com/berat/react-practical](https://github.com/berat/react-practical)
   - Web: [practical-react.herokuapp.com](https://practical-react.herokuapp.com/)
